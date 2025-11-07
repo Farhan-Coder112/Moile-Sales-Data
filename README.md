@@ -103,6 +103,6 @@ This insight helps plan marketing offers on lean days.
 
 ScreenShot / Demo
 Show what the Dashboard Looks like. - 
-Example:
+Example: ![Dashboard Preview].(https://github.com/Farhan-Coder112/Moile-Sales-Data/blob/main/M.S.DashBoard.png)
 
 
